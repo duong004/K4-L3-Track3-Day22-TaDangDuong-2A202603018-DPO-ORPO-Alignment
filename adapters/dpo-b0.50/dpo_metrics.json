@@ -1,0 +1,8 @@
+{
+  "beta": 0.5,
+  "eval_reward_gap": 0.0314,
+  "eval_chosen_reward": 0.4812,
+  "eval_rejected_reward": 0.4498,
+  "eval_reward_accuracy": 0.58,
+  "diagnosis": "AMBIGUOUS"
+}
